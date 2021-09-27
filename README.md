@@ -27,3 +27,4 @@ Para observar el funcionamiento de este proyecto deberás realizar lo siguiente.
 Podrás observar como el led rojo que se encuentra junto al botón reset del ESP32CAM se prende cuando se logra la conexión WiFi. Podrás observar cómo parpadea el Led flash.
 
 Por: [Hugo Vargas](https://github.com/hugoescalpelo)
+G3
